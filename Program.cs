@@ -7,7 +7,6 @@ namespace testrepo
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            SomeFunction();
         }
 
         private static void SomeFunction()
